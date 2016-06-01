@@ -1,0 +1,4 @@
+.class {
+  transform: rotate(25deg);
+  transition: transform .3s ease;
+}
