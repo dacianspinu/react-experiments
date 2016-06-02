@@ -1,4 +1,5 @@
 .class {
-  transform: rotate(25deg);
-  transition: transform .3s ease;
+  /*background-image: linear-gradient(to top left, #FFFFFF 15%, #0073B3 45%);*/
+  /*transform: rotate(25deg);*/
+  /*transition: transform .3s ease;*/
 }
